@@ -1,9 +1,22 @@
 package main
 
-import "fmt"
-import "rsc.io/quote"
+import (
+	"fmt"
+	"log"
+
+	"github.com/lizsites/greetings"
+)
 
 func main() {
-    fmt.Println("Nerd, you're dumb!")
-	fmt.Println(quote.Go())
+	log.SetPrefix("greetings: ")
+	log.SetFlags(0)
+
+	// Get a greeting message and print it.
+	message, err := greetings.Hello("")
+
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(message)
 }

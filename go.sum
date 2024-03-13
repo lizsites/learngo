@@ -1,6 +1,4 @@
-golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
-golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
-rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
-rsc.io/quote v1.5.2/go.mod h1:LzX7hefJvL54yjefDEDHNONDjII0t9xZLPXsUe+TKr0=
-rsc.io/sampler v1.3.0 h1:7uVkIFmeBqHfdjD+gZwtXXI+RODJ2Wc4O7MPEh/QiW4=
-rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
+github.com/lizsites/greetings v0.0.0-20240313174136-f2e23053a05d h1:o3WPBE5Y6PYfGm0sCkMUkKMuOsJ05ZNKsGVn5VvWLGs=
+github.com/lizsites/greetings v0.0.0-20240313174136-f2e23053a05d/go.mod h1:KS1PWpEK9n/Z6UVbC68Qc9h5Tcp1ibUyDFr+X+xJS5s=
+github.com/lizsites/greetings v0.0.0-20240313175936-6dbaca5fed7e h1:+8unHlc0cnS8D78skeoXYaIJ/CoJl1rUPuypoxHCzBc=
+github.com/lizsites/greetings v0.0.0-20240313175936-6dbaca5fed7e/go.mod h1:KS1PWpEK9n/Z6UVbC68Qc9h5Tcp1ibUyDFr+X+xJS5s=
